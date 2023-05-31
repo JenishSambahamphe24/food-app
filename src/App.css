@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background: rgb(241, 240, 238);
+    color: black;
+}
+a{
+    color: inherit;
+}
+li{
+    list-style: none;
+}
